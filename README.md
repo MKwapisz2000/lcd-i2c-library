@@ -78,7 +78,7 @@ Instalacja i użycie:
     
       LCD_I2C lcd(0x27); // I2C address may vary, check with an I2C scanner
 
-Zainicjalizuj wyświetlacz w setup():
+- Zainicjalizuj wyświetlacz w setup():
 
       void setup() {
           lcd.LCD_clear();
