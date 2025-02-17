@@ -1,6 +1,3 @@
-//  Biblioteka obsługująca wyświetlacz LCD ze sterownikiem HD44780, za pomocą konwertera I2C z modułem PCF8574.
-//  Ustawienia przystsowane do trybu Master Tansmiter, zapis danych z master do slave.
-
 #ifndef LCD_I2C_H
 #define LCD_I2C_H
 
